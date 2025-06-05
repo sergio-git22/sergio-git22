@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋🏼, I'm Sergio Reguillo</h1>
 <h3 align="center">Working to become a developer</h3>
 
-- 🔭 I’m currently working on [whereAIgo](https://github.com/AnotherSilviu/Proyecto_final/tree/main)
+- 🔭 Look at my Degree Project [whereAIgo](https://github.com/AnotherSilviu/Proyecto_final/tree/main)
+
+- 🚀 I’m currently working on [DIARIO MOTOR](https://github.com/sergio-git22/DIARIO-MOTOR/tree/master)
 
 - 📫 How to reach me **sergio.rmx22@gmail.com**
 
