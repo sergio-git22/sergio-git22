@@ -3,7 +3,7 @@
 
 - 🔭 Look at my Degree Project [whereAIgo](https://github.com/AnotherSilviu/Proyecto_final/tree/main)
 
-- 🚀 I’m currently working on [DIARIO MOTOR](https://github.com/sergio-git22/DIARIO-MOTOR/tree/master)
+- 🚀 I’m currently working on... (loading...)
 
 - 📫 How to reach me **sergio.rmx22@gmail.com**
 
